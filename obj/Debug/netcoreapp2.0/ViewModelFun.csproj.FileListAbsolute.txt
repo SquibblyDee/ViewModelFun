@@ -9,3 +9,14 @@ C:\Users\Mandernander\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\V
 C:\Users\Mandernander\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfo.cs
 C:\Users\Mandernander\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.dll
 C:\Users\Mandernander\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.pdb
+C:\Users\S\Google Drive\CSharp\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.deps.json
+C:\Users\S\Google Drive\CSharp\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.json
+C:\Users\S\Google Drive\CSharp\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.runtimeconfig.dev.json
+C:\Users\S\Google Drive\CSharp\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\S\Google Drive\CSharp\ViewModelFun\bin\Debug\netcoreapp2.0\ViewModelFun.pdb
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csprojResolveAssemblyReference.cache
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.csproj.CoreCompileInputs.cache
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfoInputs.cache
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.AssemblyInfo.cs
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.dll
+C:\Users\S\Google Drive\CSharp\ViewModelFun\obj\Debug\netcoreapp2.0\ViewModelFun.pdb

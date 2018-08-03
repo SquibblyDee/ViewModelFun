@@ -12,7 +12,13 @@ namespace ViewModelFun.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            User user = new User()
+            {
+                FirstName = "Devon",
+                LastName = "Newsom"
+            };
+        // Here we pass this instance to our View
+        return View(user);
         }
 
         public IActionResult About()
